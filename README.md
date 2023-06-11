@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi, I'm Logan. 👋
 
-<!--
-**qq2519157/qq2519157** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m now working for Ins.
+- 🌱 I’m a simple android developer. 
+- 🤔 I’m currently coding in Java and Kotlin.
+- ❤️ I like playing League of Legends.
+- 💬 Be free to ask me about anything [here](https://github.com/qq2519157/qq2519157/issues).
 
-Here are some ideas to get you started:
+### My Contributions
+![](https://raw.githubusercontent.com/qq2519157/qq2519157/main/assets/github-contribution-grid-snake.svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=qq2519157&show_icons=true&hide_border=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qq2519157&hide_border=true">
