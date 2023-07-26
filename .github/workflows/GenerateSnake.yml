@@ -1,4 +1,4 @@
-name: generate animation
+name: Generate Snake
 
 on:
   # run automatically every 24 hours
@@ -11,7 +11,7 @@ on:
   # run on every push on the master branch
   push:
     branches:
-    - master
+    - main
     
   
 
@@ -38,7 +38,7 @@ jobs:
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          target_branch: output
-          build_dir: dist
+          target_branch: main
+          build_dir: assets
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
