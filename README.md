@@ -13,5 +13,9 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/qq2519157/qq2519157/output/github-contribution-grid-snake.svg">
 </picture>
 
-<img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=qq2519157&theme=default">
-<img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=qq2519157&theme=default">
+<table>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=qq2519157&theme=default"></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=qq2519157&theme=default"></td>
+  </tr>
+</table>
